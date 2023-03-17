@@ -2,6 +2,25 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.3.
 
+## Use in this project
+
+* nvm
+* node version 18
+* npm
+* npx
+* angularv 15
+* bootsrap
+
+## no to use angular cli as local use this
+
+```bash
+# to create project
+npx -p @angular/cli ng new calculadora
+
+# to start server
+npm run ng serve
+```
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
