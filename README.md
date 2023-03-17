@@ -11,7 +11,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * angularv 15
 * bootsrap
 
-## no to use angular cli as local use this
+## To use angular cli as local use this
 
 ```bash
 # to create project
